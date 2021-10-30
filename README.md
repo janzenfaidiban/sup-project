@@ -2,6 +2,7 @@
 SUP Project for Ekskul SaCode
 
 ## Pertemuan 04
+(20 October 2021)
 - Setup new laptop
 - Connect leptop with the wifi first time
 - Install Git and GitHub Desktop
